@@ -1,0 +1,3 @@
+com\example\logexecution\aspect\LogExecutionTimeAspect.class
+com\example\logexecution\annotation\LogExecutionTime.class
+com\example\logexecution\autoconfigure\LogExecutionAutoConfiguration.class
